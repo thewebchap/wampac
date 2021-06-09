@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rubix.WAMPAC.WampacApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.962 s - in com.rubix.WAMPAC.WampacApplicationTests
